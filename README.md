@@ -1,4 +1,5 @@
 # Programacion_Actuarial_III
 Mi primer repositorio en GitHub
 El objetivo de la creación de este archivo es que empiece a interactuar con el servicio de GitHub y los programas de RStudio y Git Desktop. Gracias a RStudio puedo editar mis repositorios de manera local y con Desktop puedo sincronizarlos; ya sea que busque respaldar mis códigos en línea o acceder a ellos para trabajar en cualquier dispositivo y sin necesidad de introducir instrucciones de más en mi trabajo para lograrlo.
-Cada vez que guardo el progreso del repositorio en RStudio no se guardará en Desktop a menos que así lo confirme en éste
+Un 'commit' salvado localmente no se almacenan en Desktop hasta que no describa y detalle la causa del origen de éste.
+Luego de haber almacenado un commit en Desktop puedo sincronizarlo en GitHub con el botón de "sincronizar", con lo que el commit queda registrado en línea con un código llamado SHA-Code. De esta manera, tengo un historial completo de mis actividades en mi repositorio y puedo retroceder y corregirlo.
