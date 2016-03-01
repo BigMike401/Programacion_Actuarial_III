@@ -1,0 +1,48 @@
+---
+title: "Materias Aprobadas"
+author: "Miguel Morales Ramírez"
+date: "8 de febrero de 2016"
+output: html_document
+---
+
+#Benemérita Universidad autónoma de puebla
+##Facultad de Ciencias Físico-Matemáticas
+###Licenciatura en Actuaría
+####Programación Actuarial III
+
+#####Miguel Morales Ramírez
+#####201239090
+
+###Materias Aprobadas
+
+####Primer Semestre
+*Introducción a la Profesión Actuarial: 8
+*Conceptos de Cálculo: 6
+
+####Segundo Semestre
+*Microeconomía: 9
+*DHTIC: 8
+*Lengua Extranjera: 9
+*Geometría Analítica: 8
+
+####Tercer Semestre
+*Programación Actuarial I: 7
+*Macroeconomía: 8
+*Formación Humana y Social: 9
+*Matemáticas Básicas: 9
+Teoría de Ecuaciones: 9
+
+####Cuarto Semestre
+*Programación Actuarial II: 6
+*Teoría del Interés I: 6
+*Contabilidad General: 9
+*Cálculo Diferencial: 8
+*Álgebra Lineal I: 7
+
+####Quinto Semestre
+*Teoría del Interés II: 6
+*Demografía I: 7
+
+####Sexto Semestre
+
+####Séptimo Semestre
