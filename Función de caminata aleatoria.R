@@ -15,5 +15,5 @@ CamAleatoria <- function(n,z){
     x
 }
 
-y <- CamAleatoria(10,100)
+y <- CamAleatoria(100,20)
 plot(y,type = "b")

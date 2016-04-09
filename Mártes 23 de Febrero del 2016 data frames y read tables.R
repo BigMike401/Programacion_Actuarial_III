@@ -71,3 +71,6 @@ m
 
 #Con comment.char le ayudas a la consola a procesar comentarios
 #con read.table le ayudamos a la consola a que procese más rápido la data
+
+?max #dar el vector a evaluar y el na.rm=T sirve para que funcione con NAs
+?min
