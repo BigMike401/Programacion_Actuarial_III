@@ -1,3 +1,4 @@
+#Recuerda tener la carpeta de archivos justo dentro del directorio de trabajo
 completo <- function(directorio, id){
     k <- 1
     #Creación del data frame
@@ -6,19 +7,19 @@ completo <- function(directorio, id){
     for(i in id){
         #Condicional para determinar la cadena a leer del archivo
         if(i<10){
-            chain <- paste("~/",directorio,"/00",i,".csv",sep = "")
+            chain <- paste(getwd(),"/",directorio,"/00",i,".csv",sep = "")
             archivo <- read.csv(chain)
         } else if(i<100){
-            chain <- paste("~/",directorio,"/0",i,".csv",sep = "")
+            chain <- paste(getwd(),"/",directorio,"/0",i,".csv",sep = "")
             archivo <- read.csv(chain)
         } else {
-            chain <- paste("~/",directorio,"/",i,".csv",sep = "")
+            chain <- paste(getwd(),"/",directorio,"/",i,".csv",sep = "")
             archivo <- read.csv(chain)
         }
-        #Comienza ciclo de extracción
+        #Comienza ciclo de determinación de casos completos
         n <- 0
         for(j in 1:nrow(archivo)){
-            if(is.nan(archivo[j,2]) == F && is.nan(archivo[j,3]) == F){
+            if(is.na(archivo[j,2]) == F && is.na(archivo[j,3]) == F){
                 n <- n+1 
             }
         }
@@ -29,4 +30,4 @@ completo <- function(directorio, id){
     resultado
 }
 
-completo("specdata",1:10)
+completo("specdata",3)
