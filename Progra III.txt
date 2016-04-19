@@ -1,0 +1,67 @@
+Ignacio Trujillo
+trujillo_itm@yahoo.com
+WhatsApp: 2228654080
+Cel: 2222001588
+
+Instalar R
+Instalar Git (GitBash)
+GitHub (abrir sesion)
+pwd "print working directory"
+clear borra todo lo mostrado
+ls muestra todo lo que hay en home
+ls -a lista de archivos ocultos y visibles
+ls -al lista de detalles y ocultos
+cd es change directory
+mkdir es make directory
+touch crear archivos de cualquier ext
+mv es move
+date es fecha
+cp es 
+touch es 
+rm es
+
+$ git config --global user.name "Miguel Morales"
+$ git config --global user.email "tigre4011@gmail.com"
+$ git config --list
+$ pwd
+$ cd musica
+$ cd ..
+$ cd ~/musica/Audios
+$ mkdir "Antonio piñeiro"
+
+$ cd ~/Documentos
+$ mkdir "Actuarios"
+$ cd ~/Documentos/Actuarios
+$ mkdir "Raùl Castro"
+$ mkdir "Chester W. Jordan"
+$ mkdir "Newton L. Bowers"
+$ mkdir "Richard L. London"
+$ mkdir "Miguel Morales"
+$ ls
+
+Crear un nuevo REPOSITORIO en GitHub: poner nombre, hacerlo público e incluir un readme
+$ git remore add origin Https://github.com/BigMike401/...
+git add es añadir todos los archivos nuevos al index
+git add -u es seguimiento a cambios de nombre y borrado
+git add -A es ambos
+git commit -m "comentario" es para cambios locales
+git log es para registro de commits
+git push manda cambios online GitHub
+git checkout -b branchname es crear un ramal
+git branch para ver en qué ramal está
+git checkoutmaster para regresar al ramal principal
+Hacer un "fork" es tomar un código ajeno, modificarlo y guardarlo
+*.md es MarkDown
+git init para
+Instalar nearpod
+
+stackoverflow
+
+google academics
+utilizar buscador de palabras de google chrome
+utilizar comillas para hacer locución, osea, unir los conceptos escritos
+concepto filetype: *.ext
+concepto site: www...com.mx
+
+Es recomendable tener un código en un notepad por compatibilidad y seguridad
+Limitar a una funcion para una sola actividad
